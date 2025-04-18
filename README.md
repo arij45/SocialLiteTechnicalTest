@@ -41,7 +41,7 @@ A **Social Lite Technical Test** Flutter application that demonstrates key featu
 
 1. **Clone the repo**
    
-   git clone https://github.com/your-username/social_lite_technical_test.git
+   git clone https://github.com/arij45/SocialLiteTechnicalTest.git
    cd social_lite_technical_test
 
 
